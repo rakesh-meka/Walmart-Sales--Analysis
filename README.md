@@ -43,7 +43,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ### 7. Feature Engineering
    - **Create New Columns**: Calculate the `Total Amount` for each transaction by multiplying `unit_price` by `quantity` and adding this as a new column.
-   - **Enhance Dataset**: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
+   - **Enhance Dataset**: Adding this calculated field will streamline further SQL analysis and aggregation task.
 
 ### 8. Load Data into MySQL and PostgreSQL
    - **Set Up Connections**: Connect to MySQL and PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
